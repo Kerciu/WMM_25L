@@ -1,0 +1,4 @@
+insightface
+onnxruntime
+dlib
+jupyterlab
